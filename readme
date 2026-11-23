@@ -1,0 +1,8 @@
+Outil Maya Slice
+
+Utilise l'outil Multi-cut de maya en le rendant plus
+polyvalent et plus utile pour du modeling
+
+-Est-ce que ca delete la forme ou ca la separe
+-Est-ce que ca bridge la mid-section (crée une nouvelle face)
+-Offset parametre live
